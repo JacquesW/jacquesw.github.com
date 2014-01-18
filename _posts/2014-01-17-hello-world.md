@@ -6,6 +6,5 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-# Title
-- content
-
+# Hello World!
+this is a test post.
